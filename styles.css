@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+#factintro {
+    font-style:italic;
+}
+
+div.outer {
+    box-shadow: 12px 12px #c295c0
+}
+
+body {
+    width:340px;
+    background-color:black
+} 
+
+span {font-weight:bold}
+
+li {list-style-type:none;
+ }
+
+div {
+    border:solid lightgray 1px;
+    padding:10px;
+    margin:10px;
+    background-color:lightpink;
+}
